@@ -10,6 +10,6 @@ First mini project in JavaScript. Lamp On, Off and double-clicking the lamp brea
 
 
 ## 
-* [Page](https://andebarbosa.github.io/Lamp-JS)
+* [Page](https://andebarbosa.github.io/Lamp/)
 
 ![image](https://user-images.githubusercontent.com/99770532/214467281-256b021a-d9f7-48d6-b623-c303ca79a3bc.png)
